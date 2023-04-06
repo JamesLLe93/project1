@@ -62,10 +62,7 @@ img {
     width: 600px;
     height: 450px;
 }
-.iframe {
-  border-radius:50px;
-  width: 250px;
-  height: 200px;
+.map{
   margin-left: 180px;
 }
 /* using classes to align text*/
