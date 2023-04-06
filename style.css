@@ -52,12 +52,28 @@ a:active  { color: #e13350; }
 li {
   list-style-position: inside;
 }
+
+p {
+  font-family: Helvetica, sans-serif;
+}
 /*shaping borders and positioning image*/
 img {
     border-radius: 50px;
     width: 600px;
+    height: 450px;
+}
+iframe {
+  border-radius:50px;
+  width: 250px;
+  height: 200px;
+  margin-left: 180px;
 }
 /* using classes to align text*/
 .textcentered {
   text-align: center;
+}
+
+h2{
+  font-size: 22px;
+  font-style: italic;
 }
