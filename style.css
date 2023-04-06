@@ -33,6 +33,12 @@ h1 {
     font-size: 60px;
 }
 
+h2{
+  font-size: 22px;
+  font-style: italic;
+}
+
+
 /*moving and sizing the navigation section*/
 nav {
   margin: 20px 10% 20px 300px;
@@ -69,9 +75,4 @@ img {
 /* using classes to align text*/
 .textcentered {
   text-align: center;
-}
-
-h2{
-  font-size: 22px;
-  font-style: italic;
 }
